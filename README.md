@@ -1,4 +1,7 @@
-## Hi! I'm Will, a senior computer science student at Michigan State
+
+## Will Bray-Cotton
+<br> 
+ Hi! I'm Will, a senior computer science student at Michigan State
 
 <!--
 **willbraycotton/willbraycotton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
